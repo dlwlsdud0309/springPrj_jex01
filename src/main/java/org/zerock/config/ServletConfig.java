@@ -8,4 +8,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @ComponentScan(basePackages = {"org.zerock.controller"})
 public class ServletConfig implements WebMvcConfigurer {
 	
+//	public void configureViewResolvers() {
+//		
+//	}
 }
